@@ -4,8 +4,6 @@ NEAT is a genetic algorithm which evolves neutral networks to adapt and survive
 in an environment. This project implements NEAT algorithm from scratch in
 javascript to play google chrome's t-rex game autonomously.
 
-![Demo](https://akashkarnatak.github.io/dino-neat)
-
 ## Setup and Installation
 
 ### 1. Clone the repository:
