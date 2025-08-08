@@ -9,7 +9,7 @@ javascript to play google chrome's t-rex game autonomously.
 ### 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AkashKarnatak/dino-neat.git
+   git clone https://https://github.com/Vedu1709/Dino
    ```
 
 ### 2. Navigate to the project directory:
